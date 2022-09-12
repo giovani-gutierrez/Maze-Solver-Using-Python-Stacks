@@ -1,5 +1,4 @@
-# Lab04, CS 9, Giovani Gutierrez
-# lab04.py
+# Maze.py
 
 from Stack import Stack
 
