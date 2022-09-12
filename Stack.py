@@ -1,4 +1,3 @@
-# Lab04, CS 9, Giovani Gutierrez
 # Stack.py
 
 
