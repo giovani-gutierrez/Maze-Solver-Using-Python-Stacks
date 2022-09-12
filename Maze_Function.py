@@ -1,4 +1,4 @@
-# Maze.py
+# Maze_Function.py
 
 from Stack import Stack
 
